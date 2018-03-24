@@ -5,7 +5,7 @@ import './index.css';
 import App from './components/App';
 import Connexion from './components/Connexion';
 import NotFound from './components/NotFound';
-//router
+//router pour changer les urls
 import {BrowserRouter, Match, Miss} from 'react-router';
 
 const Root = () => {
